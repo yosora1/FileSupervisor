@@ -1,0 +1,9 @@
+E:\C#_project\TxtSupervisor\TxtSupervisor\bin\Debug\TxtSupervisor.exe.config
+E:\C#_project\TxtSupervisor\TxtSupervisor\bin\Debug\TxtSupervisor.exe
+E:\C#_project\TxtSupervisor\TxtSupervisor\bin\Debug\TxtSupervisor.pdb
+E:\C#_project\TxtSupervisor\TxtSupervisor\obj\Debug\TxtSupervisor.csprojResolveAssemblyReference.cache
+E:\C#_project\TxtSupervisor\TxtSupervisor\obj\Debug\TxtSupervisor.Form1.resources
+E:\C#_project\TxtSupervisor\TxtSupervisor\obj\Debug\TxtSupervisor.Properties.Resources.resources
+E:\C#_project\TxtSupervisor\TxtSupervisor\obj\Debug\TxtSupervisor.csproj.GenerateResource.Cache
+E:\C#_project\TxtSupervisor\TxtSupervisor\obj\Debug\TxtSupervisor.exe
+E:\C#_project\TxtSupervisor\TxtSupervisor\obj\Debug\TxtSupervisor.pdb
